@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.elfaraon65.twa",
-        "sha256_cert_fingerprints": ["FD:94:7A:8A:3F:98:9F:B9:B3:C4:71:61:59:21:F2:EB:20:A3:33:10:35:3F:3F:4E:B9:17:59:C3:94:38:21:60"]
+        "sha256_cert_fingerprints": ["06:0F:36:28:72:BE:EF:A0:5A:99:20:E5:D7:1B:40:22:AF:06:F3:9E:AF:4A:E3:C6:D8:B5:6A:09:D8:7B:54:CA"]
       }
     }]
